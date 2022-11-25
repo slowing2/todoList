@@ -11,7 +11,7 @@ function App() {
                 <AppBody />
             </main>
             <footer className="footer">
-                <p className="text-auth">@QuangBui</p>
+                <p className="text-auth">@XuanNhat</p>
             </footer>
         </div>
     );
